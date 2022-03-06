@@ -1,0 +1,133 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+body{
+    margin: 10% 20% 10% 20%;
+}
+
+.content {
+    text-align: center;
+    position: relative;
+    top: 50%;
+
+}
+h1 {
+    color: #e15e4e;
+    width: 160px;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+p {
+    color: #a0a0a0;
+    font-size: 0.8rem;
+}
+.invert-img {
+    filter: invert(1);
+}
+.st_column {
+    position: absolute;
+    left:5.5%;
+   
+    width: 160px;
+    text-align: center;
+}
+#_1 {
+    position:absolute;
+    color:rgba(112,192,201,255);
+    top:-4%;
+    left:-8%;
+   padding: 0.4rem 0.5rem 0.4rem 0.5rem;
+    font-size:x-small ;
+    border-style:solid;
+    border-radius: 50%;
+    border-color: rgba(112,192,201,255);
+    background-color: white;
+ 
+}
+#first {
+   
+    padding: 30px;
+    background-color: rgba(112,192,201,255);
+    border-radius: 5%;
+}
+.nd_column {
+    position: absolute;
+    left:30.5%;
+    width: 160px;
+    text-align: center;
+}
+#_2 {
+    position:absolute;
+    color:rgba(64,116,189,255);
+    top:-4%;
+    left:-8%;
+    padding: 0.4rem 0.5rem 0.4rem 0.5rem;
+    font-size:x-small;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: rgba(64,116,189,255);
+    background-color: white;
+ 
+}
+
+#second {
+   
+    padding: 30px;
+    background-color: rgba(64,116,189,255);
+    border-radius: 5%;
+}
+.rd_column {
+    position: absolute;
+    left:55%;
+    width: 160px;
+    text-align: center;
+}
+#_3 {
+    position:absolute;
+    color:rgba(224,94,70,255);
+    top:-4%;
+    left:-8%;
+    padding: 0.4rem 0.5rem 0.4rem 0.5rem;
+    font-size:x-small;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: rgba(224,94,70,255);
+    background-color: white;
+}
+#third {
+    
+    padding: 30px;
+    background-color: rgba(224,94,70,255);
+    border-radius: 5%;
+}
+.th_column {
+    position: absolute;
+   left:80%;
+    width: 160px;
+    text-align: center;
+}
+
+#_4 {
+    position:absolute;
+    color:rgba(145,145,145,255);
+    top:-4%;
+    left:-8%;
+    padding: 0.4rem 0.5rem 0.4rem 0.5rem;
+    font-size:x-small;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: rgba(145,145,145,255);
+    background-color: white;
+}
+#fourth {
+    
+    padding: 30px;
+    background-color: rgba(145,145,145,255);
+    border-radius: 5%;
+    
+}
